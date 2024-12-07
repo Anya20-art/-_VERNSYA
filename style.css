@@ -1,0 +1,41 @@
+body{
+    background-color: red;
+    color:white;
+    font-size: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+   margin: 10px 0px;
+   text-align: center;
+   margin: 20px 0px;
+   padding: 20px;
+   background-color: orange;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+
+}
+
+main{
+    color:yellow;
+}
+
+h2{
+    color:orange;
+}
+
+a{
+    background-color: orange;
+    color:black;
+}
+
+footer{
+    color:yellow;
+}
